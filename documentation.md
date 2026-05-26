@@ -37,6 +37,17 @@ If you are interested in contributing to QuTiP, check out the <a href="https://q
 
 ## Previous releases
 
+### Version 5.2.3
+
+<div class="row">
+<div class="col-md-3 col-md-offset-1">
+<img src="images/rtd.png" />
+<a href="https://qutip.readthedocs.io/en/qutip-5.2.x/">Read the Docs</a>
+</div>
+<div class="col-md-3 col-md-offset-1">
+<img src="images/pdf.png" />
+<a href="https://readthedocs.org/projects/qutip/downloads/pdf/qutip-5.2.x/">PDF documentation</a>
+
 ### Version 5.1.1
 
 <div class="row">
